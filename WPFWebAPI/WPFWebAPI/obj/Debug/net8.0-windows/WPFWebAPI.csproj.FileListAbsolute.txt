@@ -1,0 +1,82 @@
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.exe
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.deps.json
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.runtimeconfig.json
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.dll
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.pdb
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI_MarkupCompile.cache
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI_MarkupCompile.lref
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.g.resources
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.AssemblyInfoInputs.cache
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.AssemblyInfo.cs
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.dll
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\refint\WPFWebAPI.dll
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.pdb
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.genruntimeconfig.cache
+C:\Users\LUNA0_0\Desktop\4 КУРС\ТРПО\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\ref\WPFWebAPI.dll
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.exe
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.deps.json
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.runtimeconfig.json
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.dll
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.pdb
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI_MarkupCompile.cache
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI_MarkupCompile.lref
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.g.resources
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.AssemblyInfoInputs.cache
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.AssemblyInfo.cs
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.dll
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\refint\WPFWebAPI.dll
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.pdb
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.genruntimeconfig.cache
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\ref\WPFWebAPI.dll
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\CRUDCar.g.cs
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\CRUDCar.baml
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\CarMain.g.cs
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\CarMain.baml
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.csproj.AssemblyReference.cache
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI_Content.g.cs
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\App.baml
+C:\Users\LUNA\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.csproj.Up2Date
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.exe
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.deps.json
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.runtimeconfig.json
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.dll
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\WPFWebAPI.pdb
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.csproj.AssemblyReference.cache
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\CarMain.g.cs
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\CRUDCar.g.cs
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI_Content.g.cs
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI_MarkupCompile.cache
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI_MarkupCompile.lref
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\App.baml
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\CarMain.baml
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\CRUDCar.baml
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.g.resources
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.AssemblyInfoInputs.cache
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.AssemblyInfo.cs
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.csproj.Up2Date
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.dll
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\refint\WPFWebAPI.dll
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.pdb
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\WPFWebAPI.genruntimeconfig.cache
+C:\Users\LUNA0_0\Desktop\практика_7_webApi_реализация\WPFWebAPI\WPFWebAPI\obj\Debug\net8.0-windows\ref\WPFWebAPI.dll

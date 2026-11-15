@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l45W7xn918E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LUNA0_0\\Desktop\\практика_7_webApi_реализация\\WPFWebAPI\\WPFWebAPI\\WPFWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUNA0_0\\.nuget\\packages\\materialdesigncolors\\5.4.0\\materialdesigncolors.5.4.0.nupkg.sha512",
+    "C:\\Users\\LUNA0_0\\.nuget\\packages\\materialdesignthemes\\5.4.0\\materialdesignthemes.5.4.0.nupkg.sha512",
+    "C:\\Users\\LUNA0_0\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.142\\microsoft.xaml.behaviors.wpf.1.1.142.nupkg.sha512"
+  ],
+  "logs": []
+}

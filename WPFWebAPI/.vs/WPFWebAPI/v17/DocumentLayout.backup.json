@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|c:\\users\\luna0_0\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webapi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\wpfwebapi\\wpfwebapi\\carmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|solutionrelative:wpfwebapi\\carmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|c:\\users\\luna0_0\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webapi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\wpfwebapi\\wpfwebapi\\crudcar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|solutionrelative:wpfwebapi\\crudcar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|c:\\users\\luna0_0\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webapi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\wpfwebapi\\wpfwebapi\\carmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|solutionrelative:wpfwebapi\\carmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|c:\\users\\luna0_0\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webapi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\wpfwebapi\\wpfwebapi\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|solutionrelative:wpfwebapi\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|c:\\users\\luna0_0\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webapi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\wpfwebapi\\wpfwebapi\\crudcar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|solutionrelative:wpfwebapi\\crudcar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|c:\\users\\luna0_0\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webapi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\wpfwebapi\\wpfwebapi\\carapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|solutionrelative:wpfwebapi\\carapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|c:\\users\\luna0_0\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webapi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\wpfwebapi\\wpfwebapi\\carpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9712FFB-72F7-4A5E-8019-182070617C7A}|WPFWebAPI\\WPFWebAPI.csproj|solutionrelative:wpfwebapi\\carpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarApi.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CarApi.cs",
+              "RelativeDocumentMoniker": "WPFWebAPI\\CarApi.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CarApi.cs",
+              "RelativeToolTip": "WPFWebAPI\\CarApi.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T19:45:03.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarMain.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CarMain.xaml",
+              "RelativeDocumentMoniker": "WPFWebAPI\\CarMain.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CarMain.xaml",
+              "RelativeToolTip": "WPFWebAPI\\CarMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T06:13:26.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUDCar.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CRUDCar.xaml",
+              "RelativeDocumentMoniker": "WPFWebAPI\\CRUDCar.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CRUDCar.xaml",
+              "RelativeToolTip": "WPFWebAPI\\CRUDCar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T06:38:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUDCar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CRUDCar.xaml.cs",
+              "RelativeDocumentMoniker": "WPFWebAPI\\CRUDCar.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CRUDCar.xaml.cs",
+              "RelativeToolTip": "WPFWebAPI\\CRUDCar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T06:38:10.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarMain.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CarMain.xaml.cs",
+              "RelativeDocumentMoniker": "WPFWebAPI\\CarMain.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CarMain.xaml.cs",
+              "RelativeToolTip": "WPFWebAPI\\CarMain.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T06:14:11.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\Car.cs",
+              "RelativeDocumentMoniker": "WPFWebAPI\\Car.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\Car.cs",
+              "RelativeToolTip": "WPFWebAPI\\Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T19:16:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarPatch.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CarPatch.cs",
+              "RelativeDocumentMoniker": "WPFWebAPI\\CarPatch.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_7_webApi_\u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F\\WPFWebAPI\\WPFWebAPI\\CarPatch.cs",
+              "RelativeToolTip": "WPFWebAPI\\CarPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:18:27.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

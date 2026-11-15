@@ -1,0 +1,79 @@
+<Page x:Class="WPFWebAPI.CarMain"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPFWebAPI"
+      mc:Ignorable="d" 
+      Background="White"
+      Loaded="Load"    
+      d:DesignHeight="800" d:DesignWidth="1000"
+      Title="CarMain">
+
+    <StackPanel Margin="20">
+
+        <Label Content="Список автомобилей" FontSize="24" Margin="15"/>
+
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Vertical" Width="500" HorizontalAlignment="Left">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Марка:" Width="130" HorizontalAlignment="Left"/>
+                    <TextBox Width="150" Height="30" Margin="10, 0, 15, 0" Text="{Binding BrandFilter}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Максимальная цена:" Width="130" HorizontalAlignment="Left"/>
+                    <TextBox Width="150" Height="30" Margin="10, 0, 15, 0" Text="{Binding MaxPriceFilter}"/>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="15">
+                <Button Content="Найти" Width="100" Margin="5" Click="Seatch_Click"/>
+                <Button Content="Показать список" Width="200"  Margin="5" Click="Spisok_Click"/>
+            </StackPanel>
+        </StackPanel>
+       
+        <ListView x:Name="CarsList" Height="500" Margin="10" ItemsSource="{Binding AllCars}" SelectedItem="{Binding SelectCar}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Id}"/>
+                            <TextBlock Text=") "/>
+                            <TextBlock Text="{Binding Brand}"/>
+                            <TextBlock Text=" "/>
+                            <TextBlock Text="{Binding Model}"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Год: "/>
+                            <TextBlock Text="{Binding ReleaseYear}"/>
+                        </StackPanel>
+                        
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Цена: "/>
+                            <TextBlock Text="{Binding Price}"/>
+                        </StackPanel>
+                        
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="В наличии: "/>
+                            <TextBlock Text="{Binding IsAvailable}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackPanel Orientation="Horizontal" Margin="10">
+
+            <Button Content="Добавить" Margin="5" Click="PostAddNewCar_Click"/>
+
+            <Button Content="Изменить полностью" Margin="5" Click="PutCar_Click"/>
+
+            <Button Content="Изменить частично" Margin="5" Click="PatchCar_Click"/>
+
+            <Button Content="Удалить" Margin="5" Click="DeleteCar_Click"/>
+
+        </StackPanel>
+    </StackPanel>
+</Page>
